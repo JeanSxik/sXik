@@ -3,7 +3,6 @@
 Compuer Science student <br/>
 I like to programming <br/>
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeancardona3124@gmail.com) 
 
